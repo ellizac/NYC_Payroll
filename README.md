@@ -23,10 +23,14 @@ Install Flask, and imports*(if not already installed)
 
 pip install flask
 pip install flask_bootstrap
-pip install pysqllite3
+pip install pysqlite3
 pip install pandas
 
 
 export FLASK_APP=app.py (app name used)
 export FLASK_ENV=development
 flask run
+
+
+git remote set-url origin https://<personal access token>@github.com/ezacarias/nyc_payroll 
+git push
