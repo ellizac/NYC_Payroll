@@ -1,9 +1,6 @@
 # NYC_Payroll
 
 
-
-NYC Data DB Python
-
 create directory(VSC)
 
 create environment:
@@ -12,9 +9,6 @@ python3 -m venv flask
 activate environment:
 cd flask
 source bin/activate
-
-move to scripts/bin directory
-cd C:/Users/Cloud/Python/NYCBlog/Scripts
 
 active environment(space in between)
 . activate
